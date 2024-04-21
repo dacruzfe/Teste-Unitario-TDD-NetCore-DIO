@@ -1,0 +1,13 @@
+D:\dio\Blindando_codigo\NewTalent\NewTalent\bin\Debug\netcoreapp3.1\NewTalent.exe
+D:\dio\Blindando_codigo\NewTalent\NewTalent\bin\Debug\netcoreapp3.1\NewTalent.deps.json
+D:\dio\Blindando_codigo\NewTalent\NewTalent\bin\Debug\netcoreapp3.1\NewTalent.runtimeconfig.json
+D:\dio\Blindando_codigo\NewTalent\NewTalent\bin\Debug\netcoreapp3.1\NewTalent.runtimeconfig.dev.json
+D:\dio\Blindando_codigo\NewTalent\NewTalent\bin\Debug\netcoreapp3.1\NewTalent.dll
+D:\dio\Blindando_codigo\NewTalent\NewTalent\bin\Debug\netcoreapp3.1\NewTalent.pdb
+D:\dio\Blindando_codigo\NewTalent\NewTalent\obj\Debug\netcoreapp3.1\NewTalent.csproj.AssemblyReference.cache
+D:\dio\Blindando_codigo\NewTalent\NewTalent\obj\Debug\netcoreapp3.1\NewTalent.AssemblyInfoInputs.cache
+D:\dio\Blindando_codigo\NewTalent\NewTalent\obj\Debug\netcoreapp3.1\NewTalent.AssemblyInfo.cs
+D:\dio\Blindando_codigo\NewTalent\NewTalent\obj\Debug\netcoreapp3.1\NewTalent.csproj.CoreCompileInputs.cache
+D:\dio\Blindando_codigo\NewTalent\NewTalent\obj\Debug\netcoreapp3.1\NewTalent.dll
+D:\dio\Blindando_codigo\NewTalent\NewTalent\obj\Debug\netcoreapp3.1\NewTalent.pdb
+D:\dio\Blindando_codigo\NewTalent\NewTalent\obj\Debug\netcoreapp3.1\NewTalent.genruntimeconfig.cache
